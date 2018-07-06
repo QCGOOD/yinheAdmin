@@ -18,40 +18,10 @@ module.exports = {
       //     '^/api': ''
       //   }
       // },
-<<<<<<< .mine
       '/yinhe_test': {
         // target: 'http://192.168.1.70:8080/', 
         // target: 'http://192.168.1.32:8180/',
         target: 'http://x.wego168.com/',
-||||||| .r38459
-      // '/accelerator': {
-      //   // target: 'http://192.168.1.70:8080/',
-      //   // target: 'http://192.168.1.32:8180/',
-      //   target: 'http://abs.wego168.com/',
-      //   changeOrigin: true,
-      //   pathRewrite: {
-      //     '/accelerator': 'accelerator'
-      //   }
-      // },
-      '/accelerator_test': {
-        // target: 'http://192.168.1.32:8180/', // 宁
-        // target: 'http://192.168.1.18:8088/', // 华
-        target: 'http://abs.wego168.com/', // 华
-=======
-      // '/accelerator': {
-      //   // target: 'http://192.168.1.70:8080/',
-      //   // target: 'http://192.168.1.32:8180/',
-      //   target: 'http://abs.wego168.com/',
-      //   changeOrigin: true,
-      //   pathRewrite: {
-      //     '/accelerator': 'accelerator'
-      //   }
-      // },
-      '/accelerator_test': {
-        // target: 'http://192.168.1.32:8180/', // 宁
-        // target: 'http://192.168.1.18:8088/', // 华
-        target: 'http://abs.wego168.com/', // 
->>>>>>> .r39074
         changeOrigin: true,
         pathRewrite: {
           '/yinhe_test': 'yinhe_test'
