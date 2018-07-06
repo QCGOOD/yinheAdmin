@@ -89,56 +89,8 @@ export default {
           name: "会员管理",
           menuList: [
             {
-<<<<<<< .mine
               name: "会员管理",
               url: "/main/member"
-||||||| .r38798
-              name: "活动发布",
-              url: "/main/activity/list"
-            },
-            {
-              name: "活动分类",
-              url: "/main/activity/category"
-            },
-            {
-              name: "活动标签",
-              url: "/main/activity/tag"
-            },
-            // {
-            //   name: "活动回顾",
-            //   url: "/main/activity/review"
-            // },
-            {
-              name: "活动日程",
-              url: "/main/activity/schedule"
-            },
-            {
-              name: "系统报名字段",
-              url: "/main/signDataSetting"
-=======
-              name: "活动发布",
-              url: "/main/activity/list"
-            },
-            {
-              name: "活动分类",
-              url: "/main/activity/category"
-            },
-            {
-              name: "活动标签",
-              url: "/main/activity/tag"
-            },
-            {
-              name: "活动回顾",
-              url: "/main/activity/review"
-            },
-            {
-              name: "活动日程",
-              url: "/main/activity/schedule"
-            },
-            {
-              name: "系统报名字段",
-              url: "/main/signDataSetting"
->>>>>>> .r39074
             }
           ]
         }
